@@ -48,8 +48,9 @@ p {
 }
 
 nav {
-    padding: 1.5em;
-    background-color: rgba(255, 255, 255, 0.801);
+    padding: .5em;
+    background-color: #c5d5ff;
+    opacity: 60%;
     backdrop-filter: blur(3px);
     position: fixed;
     z-index: 100;
